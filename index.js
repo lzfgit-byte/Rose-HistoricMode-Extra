@@ -2,7 +2,7 @@
  * @name Rose-HistoricMode-Extra
  * @author lzfgitbyte
  * @description Historic mode for Pengu Loader
- * @link 
+ * @link https://github.com/lzfgit-byte/Rose-HistoricMode-Extra
  */
 (function initHistoricMode() {
   const LOG_PREFIX = "[MY-HistoricMode]";
@@ -270,4 +270,5 @@
     init();
   }
 })();
+
 
